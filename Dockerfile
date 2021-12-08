@@ -1,3 +1,5 @@
+# Author: Gautham Pughazhendhi
+
 FROM jupyter/minimal-notebook
 
 # INSTALL python3 packages
